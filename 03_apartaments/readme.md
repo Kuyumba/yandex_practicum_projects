@@ -62,5 +62,4 @@
 `pandas`
 `matplotlib`
 `seaborn`
-`pymystem3`
 
