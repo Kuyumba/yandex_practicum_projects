@@ -7,7 +7,7 @@
 |02_credits      |Исследование взаимосвязи между возвратом кредита в срок и особенностями заёмщиков  |`pandas`, `matplotlib`, `seaborn`, `pymystem3` |
 |03_apartaments  |Анализ рынка недвижимости Санкт-Петербурга. |`pandas`, `matplotlib`, `seaborn` |
 |04_telecom      |Определение перспективного тарифа для оператора сотовой связи. |`pandas`, `matplotlib`, `seaborn` |
-|05_games        |Анализ рынка компьютерных игр. |`pandas`, `matplotlib`, `seaborn` |
+|05_games        |Анализ рынка компьютерных игр. |`pandas`, `matplotlib`, `numpy`, `scipy`, `math` |
 |06_telecom_2    |Построение модели подбора тарифа для клиентов оператора сотовой связи |`pandas`, `matplotlib`, `sklearn` |
 |07_bank_clients |Прогнозирование оттока клиентов банка. |`pandas`, `matplotlib`, `sklearn` |
 |08_oil_wells    |Выбор перспективного региона для бурения новых скважин для добычи нефти. |`pandas`, `matplotlib`, `seaborn`,  `sklearn` |
